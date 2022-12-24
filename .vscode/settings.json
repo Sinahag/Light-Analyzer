@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "stdio.h": "c",
+        "samplea2d.h": "c",
+        "sampleanalyzer.h": "c"
+    }
+}
